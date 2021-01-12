@@ -1,0 +1,234 @@
+body {
+  width: 100%;
+}
+
+header {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    background-color: deepskyblue;
+}
+.hst {
+    color: white;
+}
+
+nav {
+  position: relative;
+  width: 100%;
+  background-color: rgb(12, 11, 11);
+  height: 70px;
+  
+}
+nav ul {
+   list-style: non;
+   position: relative;
+   margin-left: 5em;
+   
+}
+nav ul li {
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    margin: 1em;
+}
+nav ul li a {
+ text-decoration: none;
+ display: block;
+ color: white;
+ font-size: 1em;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.im {
+  position: relative;
+  width: 35%;
+  float: left;
+  margin-right: 2em;
+}
+.sbn {
+    display: inline-block;
+    height: 60px;
+    background-color: rgb(255, 145, 0);
+    border-radius: 10px;
+    text-align: center;  
+}
+.sbn a{
+    text-decoration: none;
+    color: white;
+    padding: 1em;
+    display: inline-block;
+    padding-top: .6em;
+    font-family: Arial, Helvetica, sans-serif;;
+}
+.hdc {
+    position: relative;
+    width: 40%;
+    float: left;
+    margin-top: 5em;
+    
+}
+.im img {
+    margin-top: 2em;
+}
+main {
+    position: relative;
+    width: 100%;
+}
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+section {
+    position: relative;
+    width: 100%;
+    
+}
+.s1{
+    position: relative;
+    width: 100%;
+    clear: both;
+    
+}
+.s1 h2 {
+    color: black;
+    position: relative;
+    margin-left: 24em;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.s2 {
+    background-color: deepskyblue;
+}
+.s2 p {
+    color: white;
+}
+
+.s4 {
+    background-color: rgb(252, 238, 238);
+    height: 300px;
+}
+.s4 ul {
+    list-style: none;
+}
+.s4 ul li {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: 20%;
+    left: 15%; 
+}
+.s4 ul li a {
+  display: block;
+  padding: 1em;
+  margin-top: 3em;
+}
+#prod {
+    position: relative;
+    width: 100%;
+}
+#prod a {
+    position: absolute;
+    left: 650px;
+}
+    
+.ft {
+    list-style: none;
+}
+.ft li {
+    display: inline-block;
+    margin: .3em;   
+}
+.ft li a {
+    text-decoration: none;
+    color: white;
+    
+    padding-right: 1em;   
+}
+.ba, .bc, .bd, .be {
+    border-right: 1px dotted white;
+}
+.s5 {
+    height: 200px;
+}
+.s5 ul  {
+    margin-top: 2em;
+    list-style: none; 
+    height: 100%;  
+}
+.s5 ul li {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    margin-right: .5em;
+    top: 15%;
+    left: 25%;
+    background-color: rgb(30, 90, 255);
+    height: 75px;
+    width: 200px;
+    border-radius: 10px;
+}
+.s5 ul li a{
+    text-decoration: none;
+    display: block;
+    position: relative;
+    top: 35%;  
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.s5 ul li.stbd {
+    background-color: rgb(255, 145, 0);
+}
+.s2 {
+    position: relative;
+}
+.container {
+    position: relative;
+    width: 80%;
+    left: 8%;
+}
+article {
+    position: relative;
+    width: 40%;
+    margin-left: 3%;
+    padding-right: 2%;
+    vertical-align: top;
+   display: inline-block;
+    margin-right: 1em;
+}
+.absp {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+
+}
+.s2{
+    position: relative;
+    width: 100%;   
+}
+.s3 h2 {
+    color: gray;
+    position: relative;
+    margin-left: 500px;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter; 
+}
+.chaft {
+    position: absolute;
+    top: 70px;
+    right: 15px;
+    z-index: 1;
+}
+footer p{
+    position: absolute;
+    right: 100px;
+    top: -10px;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+
+
