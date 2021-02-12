@@ -11,6 +11,10 @@ header {
 .hst {
     color: white;
 }
+.hdc {
+  display: flex;
+  justify-content: center;
+}
 
 nav {
   position: relative;
